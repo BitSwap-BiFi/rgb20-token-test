@@ -1,0 +1,7 @@
+/sysroot/home/rafael/Documents/rgb 20 token test/rgb20-token-test/target/debug/deps/libiana_time_zone-1a434f598e873992.rmeta: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/ffi_utils.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/tz_linux.rs
+
+/sysroot/home/rafael/Documents/rgb 20 token test/rgb20-token-test/target/debug/deps/iana_time_zone-1a434f598e873992.d: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/ffi_utils.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/tz_linux.rs
+
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/lib.rs:
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/ffi_utils.rs:
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/iana-time-zone-0.1.60/src/tz_linux.rs:

@@ -1,0 +1,7 @@
+/sysroot/home/rafael/Documents/rgb 20 token test/rgb20-token-test/rgb20-token/target/debug/deps/libsecp256k1_sys-de8cd232a7af3518.rmeta: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.10.0/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.10.0/src/macros.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.10.0/src/types.rs
+
+/sysroot/home/rafael/Documents/rgb 20 token test/rgb20-token-test/rgb20-token/target/debug/deps/secp256k1_sys-de8cd232a7af3518.d: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.10.0/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.10.0/src/macros.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.10.0/src/types.rs
+
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.10.0/src/lib.rs:
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.10.0/src/macros.rs:
+/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.10.0/src/types.rs:
