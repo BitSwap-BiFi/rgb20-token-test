@@ -23,13 +23,6 @@ impl ResolveWitness for DumbResolver {
     }
 }
 
-impl ResolveHeight for DumbResolver {
-    type Error = Infallible;
-    fn resolve_anchor(&mut self, _: &XAnchor) -> Result<WitnessAnchor, Self::Error> {
-        Ok(WitnessAnchor::strict_dumb())
-    }
-}
-
 #[rustfmt::skip]
 fn main() {
     let beneficiary_txid =
