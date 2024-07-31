@@ -1,1 +1,3 @@
-# rgb20-token-test
+## RGB Token Test
+
+Test for RGB20 token.
