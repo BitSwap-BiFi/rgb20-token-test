@@ -1,7 +1,0 @@
-/sysroot/home/rafael/Documents/rgb 20 token test/rgb20-token-test/rgb20-token/target/debug/deps/libamplify_apfloat-9628bb40fc889d4b.rmeta: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/amplify_apfloat-0.3.0/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/amplify_apfloat-0.3.0/src/ieee.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/amplify_apfloat-0.3.0/src/ppc.rs
-
-/sysroot/home/rafael/Documents/rgb 20 token test/rgb20-token-test/rgb20-token/target/debug/deps/amplify_apfloat-9628bb40fc889d4b.d: /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/amplify_apfloat-0.3.0/src/lib.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/amplify_apfloat-0.3.0/src/ieee.rs /sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/amplify_apfloat-0.3.0/src/ppc.rs
-
-/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/amplify_apfloat-0.3.0/src/lib.rs:
-/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/amplify_apfloat-0.3.0/src/ieee.rs:
-/sysroot/home/rafael/.var/app/com.vscodium.codium/data/cargo/registry/src/index.crates.io-6f17d22bba15001f/amplify_apfloat-0.3.0/src/ppc.rs:
